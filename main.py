@@ -16,4 +16,3 @@ async def on_message(message):
         await message.channel.send('Hello!')
 
 client.run(os.getenv('TOKEN'))
-TOKEN=[ODUxOTU2MjgxNTk3ODg2NDc0.YL_0Hg.gMTZ5EjwPbb7XvDORWmcvmoonnw]
